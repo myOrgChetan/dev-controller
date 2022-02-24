@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "myOrgChetan-dev-controller"
+description: "CloudBees CI configuration bundle for the myOrgChetan dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/myorgchetan/dev-controller"
+parent: "base"
